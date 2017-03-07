@@ -1,0 +1,65 @@
+
+#scrollHolder {
+	height: 4000px;
+}
+#skyBG4000 {
+	background-image: url("../images/skyBG4000.svg");
+	width: 4000px;
+	position: fixed;
+	top: 0px;
+	height: 1000px;
+	margin: 0px auto;
+}
+
+#farclouds {
+	position: absolute;
+	top: 0px;
+	width: 3500px;
+	height: 120px;
+	background: url("../images/farclouds.png") no-repeat;
+	margin: 0px auto;
+}
+
+#mountains01 {
+	position: absolute;
+	top: 350px;
+	width: 4000px;
+	height: 250px;
+	background: url("../images/mountains-01.png") no-repeat;
+	margin: 0px auto;
+    background-color: ; 
+}
+
+#middleclouds {
+	position: absolute;
+	top: 80px;
+	left: 100px;
+	width: 4000px;
+	height: 300px;
+	background: url("../images/middleclouds.png") no-repeat;
+	position: absolute;
+	right: : 1500px;
+
+}
+
+#closeclouds {
+	position: absolute;
+	top: 150px;
+	width: 2500px;
+	height: 250px;
+	background: url("../images/closeclouds.png") no-repeat;
+	display: inline-block;
+    margin: 0px 15px;
+} 
+
+#treeline {
+	position: absolute;
+	top: 420px;
+	width: 4000px;
+	height: 250px;
+	background: url("../images/treeline-01.png") repeat;
+	background-size: contain;
+}
+
+
+
